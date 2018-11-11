@@ -1,7 +1,6 @@
 .text-item{
     color: white;
     text-align: center;
-
     padding-top:230px;
 }
 .service{
@@ -88,7 +87,7 @@ a.nav-link.active {color:#07a7db !important}
 
 }
 #logo{
-    width: 55%;
+
     margin-top: 10px;
 }
 .navbar-collapse{
@@ -98,4 +97,8 @@ a.nav-link.active {color:#07a7db !important}
 
 h1, h2,h3,h4,h5 {
 font-family: 'Oswald',Helvetica,Arial,Lucida,sans-serif;
+}
+#logo{
+
+    margin-top: -7px;
 }

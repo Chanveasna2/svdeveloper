@@ -13,6 +13,7 @@
         z-index: 1;
         padding: 0px;
 
+
     }
 
 
@@ -26,10 +27,6 @@
 <body>
 
     <div class="container-fluid" id="header">
-
-                {{--<a href="#"><img src="/images/kh.png" width="40px" class="img-fluid language"></a>&nbsp;--}}
-                {{--<a href="#"><img src="/images/en.png" width="40px" class="img-fluid language"></a>--}}
-
                 <nav class="navbar navbar-expand-lg navbar-light" style="margin-left: 5%">
                     <a class="navbar-brand"  href="/"><img id="logo" src="/images/logo.png" width="100%"></a>
 
@@ -38,9 +35,10 @@
                         <span class="navbar-toggler-icon"></span>
                     </button>
 
-                    <div class="collapse navbar-collapse" id="collapsibleNavbar" >
-                        <ul class="navbar-nav">
-                            <li class="nav-item" style="float: right">
+                    <div class="collapse navbar-collapse" id="collapsibleNavbar">
+                        <ul class="navbar-nav ml-auto " style="margin-right: 5%">
+
+                            <li class="nav-item">
                                 <a class="nav-link active" href="#" >Home</a>
                             </li>
                             <li class="nav-item">
@@ -53,7 +51,6 @@
                                 <a class="nav-link" href="#">Contact</a>
                             </li>
                         </ul>
-
                     </div>
                 </nav>
 
@@ -72,6 +69,14 @@
                 <div class="col-xs-12 col-sm-4 col-md-4">
                     <h5>About Us</h5>
                     <p>We are uniquely qualified Company offering Professional Web Design and Digital Marketing in Cambodia.</p>
+
+                    <h5>Language</h5>
+                    <ul>
+                        <a href=""><li>English</li></a>
+                        <a href=""><li>ខ្មែរ</li></a>
+
+                    </ul>
+
                 </div>
                 <div class="col-xs-12 col-sm-4 col-md-4">
                     <h5>Feature Services</h5>
