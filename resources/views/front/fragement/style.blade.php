@@ -18,6 +18,8 @@
 
 <link href="/css/footer_css.css" rel="stylesheet">
 <link href="/css/homepage.css" rel="stylesheet">
+<link href="/css/about.css" rel="stylesheet">
+<link href="/css/contact.css" rel="stylesheet">
 
 <style>
 

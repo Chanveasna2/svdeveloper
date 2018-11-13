@@ -39,16 +39,16 @@
                         <ul class="navbar-nav ml-auto " style="margin-right: 5%">
 
                             <li class="nav-item">
-                                <a class="nav-link active" href="#" >Home</a>
+                                <a class="nav-link active" href="{{url('/')}}" >Home</a>
                             </li>
                             <li class="nav-item">
-                                <a class="nav-link" href="#">About Us</a>
+                                <a class="nav-link" href="{{url('/about-us')}}">About Us</a>
                             </li>
                             <li class="nav-item">
-                                <a class="nav-link" href="#">Service</a>
+                                <a class="nav-link" href="#one">Service</a>
                             </li>
                             <li class="nav-item">
-                                <a class="nav-link" href="#">Contact</a>
+                                <a class="nav-link" href="{{url('/contact-us')}}">Contact</a>
                             </li>
                         </ul>
                     </div>
@@ -67,8 +67,8 @@
         <div class="container" style="margin-top: -40px" >
             <div class="row text-center text-xs-center text-sm-left text-md-left">
                 <div class="col-xs-12 col-sm-4 col-md-4">
-                    <h5>About Us</h5>
-                    <p>We are uniquely qualified Company offering Professional Web Design and Digital Marketing in Cambodia.</p>
+                    <a href="{{url('/about-us')}}"><h5>About Us</h5></a>
+                    <p class="footer-text">We are uniquely qualified Company offering Professional Web Design and Digital Marketing in Cambodia.</p>
 
                     <h5>Language</h5>
                     <ul>
@@ -81,20 +81,20 @@
                 <div class="col-xs-12 col-sm-4 col-md-4">
                     <h5>Feature Services</h5>
                     <ul>
-                        <li>Professional Web Design</li>
-                        <li>Web Application</li>
-                        <li>Windows base Application</li>
-                        <li>Logo Design</li>
-                        <li>Stock Management System</li>
-                        <li>Camera Security</li>
+                        <li class="footer-text">Professional Web Design</li>
+                        <li class="footer-text">Web Application</li>
+                        <li class="footer-text">Windows base Application</li>
+                        <li class="footer-text">Logo Design</li>
+                        <li class="footer-text">Stock Management System</li>
+                        <li class="footer-text">Camera Security</li>
 
                     </ul>
                 </div>
                 <div class="col-xs-12 col-sm-4 col-md-4">
                     <h5>Get in Touch</h5>
-                    <p>SV Technologies</p>
-                    <p>Phone: 010 254 294</p>
-                    <p>Email: svtechnologieskh@gmail.com</p>
+                    <p class="footer-text">SV Technologies</p>
+                    <p class="footer-text">Phone: 010 254 294</p>
+                    <p class="footer-text">Email: svtechnologieskh@gmail.com</p>
                 </div>
             </div>
             <div class="row">

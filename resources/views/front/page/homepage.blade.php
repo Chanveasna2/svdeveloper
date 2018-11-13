@@ -13,21 +13,8 @@
             </div>
 
         </div>
-        {{--<img class="img-fluid promote" src="/images/office.jpg">--}}
+    </div>
 
-    {{--</div>--}}
-
-    {{--<div class="container-fluid" style="margin-top: 100px">--}}
-        {{--<div class="text-item" style="background-color:#07a7db" >--}}
-            {{--<h1>Professional Website</h1>--}}
-            {{--<h4>Call us now: 010 254 294</h4>--}}
-            {{--<button class="btn btn-outline-primary my-2 my-sm-0" type="submit" id="view" style="color: white;border-color: white"><span>View our works</span></button>--}}
-            {{--<div style="margin-top: 50px;" id="one">--}}
-                {{--<a href="#one" class="test" style="font-size: 60px;color: white"><span class="scroll-down et-pb-icon"><i class="fa fa-arrow-circle-down"></i></span></a>--}}
-
-            {{--</div>--}}
-
-    {{--</div >--}}
     <div class="container-fluid">
         <div class="container" style="margin-top: 80px;margin-bottom: 80px"  >
             <div class="row">

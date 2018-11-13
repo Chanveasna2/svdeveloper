@@ -1,7 +1,8 @@
 .text-item{
     color: white;
     text-align: center;
-    padding-top:230px;
+    padding-top: 320px;
+    padding-bottom: 10px;
 }
 .service{
     display: block;
@@ -42,8 +43,7 @@
     background-size: cover;
     background-position: center center;
     color: #fff;
-    height: 550px;
-    padding-top: 50px;
+
 }
 .text-choose{
     color:white;
@@ -93,7 +93,13 @@ a.nav-link.active {color:#07a7db !important}
 .navbar-collapse{
     padding: 0px;
 }
+    .text-item{
+        padding-top: 150px;
+        padding-bottom: 10px;
+    }
+
 }
+
 
 h1, h2,h3,h4,h5 {
 font-family: 'Oswald',Helvetica,Arial,Lucida,sans-serif;
@@ -101,4 +107,8 @@ font-family: 'Oswald',Helvetica,Arial,Lucida,sans-serif;
 #logo{
 
     margin-top: -7px;
+}
+
+.footer-text{
+    color: white;
 }
