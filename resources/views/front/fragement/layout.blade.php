@@ -1,6 +1,6 @@
 <!DOCTYPE html>
 <html lang="en">
-<title>SV Developer</title>
+
 <style>
     #header {
 
@@ -27,7 +27,7 @@
 <body>
 
     <div class="container-fluid" id="header">
-                <nav class="navbar navbar-expand-lg navbar-light" style="margin-left: 5%">
+                <nav class="navbar navbar-expand-lg navbar-light" style="margin-left: 5%;margin-top: -10px">
                     <a class="navbar-brand"  href="/"><img id="logo" src="/images/logo.png" width="100%"></a>
 
 
@@ -81,26 +81,26 @@
                 <div class="col-xs-12 col-sm-4 col-md-4">
                     <h5>Feature Services</h5>
                     <ul>
-                        <li class="footer-text">Professional Web Design</li>
-                        <li class="footer-text">Web Application</li>
-                        <li class="footer-text">Windows base Application</li>
-                        <li class="footer-text">Logo Design</li>
+                        <li class="footer-text">Portfolio Website</li>
+                        <li class="footer-text">E-Commerce Website</li>
                         <li class="footer-text">Stock Management System</li>
-                        <li class="footer-text">Camera Security</li>
+                        <li class="footer-text">POS System</li>
+                        <li class="footer-text">Mobile App</li>
+                        <li class="footer-text">Training Course</li>
 
                     </ul>
                 </div>
                 <div class="col-xs-12 col-sm-4 col-md-4">
                     <h5>Get in Touch</h5>
-                    <p class="footer-text">SV Technologies</p>
+                    <p class="footer-text">Anachak Technology</p>
                     <p class="footer-text">Phone: 010 254 294</p>
-                    <p class="footer-text">Email: svtechnologieskh@gmail.com</p>
+                    <p class="footer-text">Email: anachaktechno@gmail.com</p>
                 </div>
             </div>
             <div class="row">
                 <div class="col-xs-12 col-sm-12 col-md-12 mt-2 mt-sm-5">
                     <ul class="list-unstyled list-inline social text-center">
-                        <li class="list-inline-item"><a href="https://www.facebook.com/roushuncambodia" target="_blank"><i class="fa fa-facebook"></i></a></li>
+                        <li class="list-inline-item"><a href="https://www.facebook.com/anachaktechnology" target="_blank"><i class="fa fa-facebook"></i></a></li>
                         <li class="list-inline-item"><a href="#"><i class="fa fa-twitter"></i></a></li>
                         <li class="list-inline-item"><a href="#"><i class="fa fa-instagram"></i></a></li>
                         <li class="list-inline-item"><a href="#"><i class="fa fa-google-plus"></i></a></li>
@@ -111,7 +111,7 @@
             </div>
             <div class="row">
                 <div class="col-xs-12 col-sm-12 col-md-12 mt-2 mt-sm-2 text-center text-white">
-                    <p class="h6">© 2018, SV Developers, All Rights Reserved.</p>
+                    <p class="h6">©2019, Anachak Technology, All Rights Reserved.</p>
                 </div>
                 </hr>
             </div>

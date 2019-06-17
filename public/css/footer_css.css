@@ -6,7 +6,7 @@ section {
 
 section .section-title {
     text-align: center;
-    color: #007b5e;
+    color: #88c002;
     margin-bottom: 50px;
     text-transform: uppercase;
 }
@@ -15,10 +15,10 @@ section .section-title {
 }
 #footer h5{
     padding-left: 10px;
-    border-left: 3px solid #07a7db;
+    border-left: 3px solid #88c002;
     padding-bottom: 6px;
     margin-bottom: 20px;
-    color:#07a7db;
+    color:#88c002;
 }
 #footer a {
     color: #ffffff;

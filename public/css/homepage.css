@@ -11,6 +11,7 @@
 }
 .service-title{
     text-align: center;
+    color: #88c002;
 }
 .service-desc{
     text-align: center;
@@ -68,8 +69,8 @@
     border-radius: 4px;
 }
 a.nav-link {color:#000000 !important}
-a.nav-link:hover {color:#07a7db !important}
-a.nav-link.active {color:#07a7db !important}
+a.nav-link:hover {color:#88c002 !important}
+a.nav-link.active {color:#88c002 !important}
 
 /* Extra small devices (phones, 600px and down) */
 @media only screen and (max-width: 1024px) {
@@ -82,7 +83,7 @@ a.nav-link.active {color:#07a7db !important}
 .navbar-nav{
     background-color: #f2f2f2;
     text-align: center;
-    color: #07a7db;
+    color: #88c002;
     width: 100%;
 
 }
@@ -93,6 +94,7 @@ a.nav-link.active {color:#07a7db !important}
 .navbar-collapse{
     padding: 0px;
 }
+    service-title
     .text-item{
         padding-top: 150px;
         padding-bottom: 10px;

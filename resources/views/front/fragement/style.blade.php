@@ -4,8 +4,8 @@
 <meta name="description" content="">
 <meta name="author" content="">
 
-<title>SV Technologies</title>
-<link rel="icon" href="/images/sv.png">
+<title>Anachak Technology</title>
+<link rel="icon" href="/images/Anachak.png">
 
 
 <meta charset="utf-8">
