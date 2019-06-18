@@ -23,33 +23,31 @@
             <div class="container" style="margin-top: 80px;margin-bottom: 80px"  >
                 <div class="row">
                     <div class="col-md-12">
-                        <h1 style="color: #07a7db;text-align: center">Our Team</h1>
-                        <hr style="background-color: #07a7db;">
+                        <h1 style="color: #88c002;text-align: center">Our Team</h1>
+                        <hr style="background-color: #88c002;">
                     </div>
                 </div>
                 <div class="row">
-                    <div class="col-md-4">
+                    <div class="col-md-6">
                         <img src="/images/sl.png"  width="100px" class="img-fluid rounded-circle" style="border-color: #07a7db;">
                         <h4>Kheng Soklim</h4>
                         <p><strong>Web Developer and Designer</strong></p>
                         <p>Phone: 010 254 294</p>
-                        <p>Facebook: Soklim Kheng</p>
 
                     </div>
-                    <div class="col-md-4">
+                    <div class="col-md-6">
                         <img src="/images/veasna.png" width="100px" class="img-fluid rounded-circle" >
                         <h4>Heang ChanVeasna</h4>
-                        <p><strong>Web Developer and Marketing</strong></p>
+                        <p><strong>Web Developer</strong></p>
                         <p>Phone: 070 268 727</p>
-                        <p>Facebook: ChanVeasna Heang</p>
                     </div>
-                    <div class="col-md-4 ml-auto">
-                        <img src="/images/dolla.png" width="100px" class="img-fluid rounded-circle" >
-                        <h4>Soy Hunridolla</h4>
-                        <p><strong>Web Developer and Consultant</strong></p>
-                        <p>Phone: 096 996 7697</p>
-                        <p>Facebook: Soy Hunridolla</p>
-                    </div>
+                    {{--<div class="col-md-4 ml-auto">--}}
+                        {{--<img src="/images/dolla.png" width="100px" class="img-fluid rounded-circle" >--}}
+                        {{--<h4>Soy Hunridolla</h4>--}}
+                        {{--<p><strong>Web Developer and Consultant</strong></p>--}}
+                        {{--<p>Phone: 096 996 7697</p>--}}
+                        {{--<p>Facebook: Soy Hunridolla</p>--}}
+                    {{--</div>--}}
 
                 </div>
             </div>
@@ -59,40 +57,40 @@
             <div class="container" style="margin-top: 80px;margin-bottom: 80px"  >
                 <div class="row">
                     <div class="col-md-12">
-                        <h1 style="color: #07a7db;text-align: center">Our Service</h1>
-                        <hr style="background-color: #07a7db;">
+                        <h1 style="color: #88c002;text-align: center">Our Service</h1>
+                        <hr style="background-color: #88c002;">
                     </div>
                 </div>
                 <div class="row">
                     <div class="col-md-4">
-                        <a href="#"> <img src="/images/web-app.png" width="100px" class="img-fluid service" > </a>
-                        <a href="#"><h4 class="service-title">Professional Web Design</h4></a>
-                        <p class="service-desc">Get beautiful website which adjust to fit mobile and tablet screens of all sizes and update yourself 24/7.</p>
+                        <a href="#"> <img src="/images/portfolio.png" width="100px" class="img-fluid service" > </a>
+                        <h4 class="service-title">Portfolio Website</h4>
+                        <p class="service-desc">We create professional website follow your business flow.</p>
                     </div>
                     <div class="col-md-4">
-                        <a href="#"><img src="/images/website.png" width="100px" class="img-fluid service"></a>
-                        <a href="#"><h4 class="service-title">Web Application</h4></a>
-                        <p class="service-desc">Get beautiful website which adjust to fit mobile and tablet screens of all sizes and update yourself 24/7.</p>
-                    </div>
-                    <div class="col-md-4">
-                        <a href="#"><img src="/images/windows-base.png" width="100px" class="img-fluid service"></a>
-                        <a href="#"><h4 class="service-title">Windows base Application</h4></a>
-                        <p class="service-desc">Get beautiful website which adjust to fit mobile and tablet screens of all sizes and update yourself 24/7.</p>
-                    </div>
-                    <div class="col-md-4">
-                        <a href="#"><img src="/images/design.png" width="100px" class="img-fluid service"></a>
-                        <a href="#"><h4 class="service-title">Logo Design</h4></a>
-                        <p class="service-desc">Get beautiful website which adjust to fit mobile and tablet screens of all sizes and update yourself 24/7.</p>
+                        <a href="#"><img src="/images/ecommerce.png" width="100px" class="img-fluid service"></a>
+                        <h4 class="service-title">eCommerce Website</h4>
+                        <p class="service-desc">Create eCommerce website to show your products and easy for your customer ordering the products.</p>
                     </div>
                     <div class="col-md-4">
                         <a href="#"><img src="/images/stock.png" width="100px" class="img-fluid service"></a>
-                        <a href="#"><h4 class="service-title">Stock Management System</h4></a>
-                        <p class="service-desc">Get beautiful website which adjust to fit mobile and tablet screens of all sizes and update yourself 24/7.</p>
+                        <h4 class="service-title">Stock Management System</h4>
+                        <p class="service-desc">We can help you to manage your stock vai using our stock management system.</p>
                     </div>
                     <div class="col-md-4">
-                        <a href="#"><img src="/images/camera.png" width="100px" class="img-fluid service"></a>
-                        <a href="#"><h4 class="service-title">Camera Security</h4></a>
-                        <p class="service-desc">Get beautiful website which adjust to fit mobile and tablet screens of all sizes and update yourself 24/7.</p>
+                        <a href="#"><img src="/images/pos.png" width="100px" class="img-fluid service"></a>
+                        <h4 class="service-title">POS System</h4>
+                        <p class="service-desc">POS System can help your selling fast and security with new technology.</p>
+                    </div>
+                    <div class="col-md-4">
+                        <a href="#"><img src="/images/mobile.png" width="100px" class="img-fluid service"></a>
+                        <h4 class="service-title">Mobile App</h4>
+                        <p class="service-desc">We will create mobile app follow your business with 2 operation system(IOS & Android).</p>
+                    </div>
+                    <div class="col-md-4">
+                        <a href="#"><img src="/images/training.png" width="100px" class="img-fluid service"></a>
+                        <h4 class="service-title">Training Course</h4>
+                        <p class="service-desc">We also have training service such as: website design, database management (SQL Server) & mobile development.</p>
                     </div>
 
                 </div>

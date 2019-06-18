@@ -70,12 +70,12 @@
                     <a href="{{url('/about-us')}}"><h5>About Us</h5></a>
                     <p class="footer-text">We are uniquely qualified Company offering Professional Web Design and Digital Marketing in Cambodia.</p>
 
-                    <h5>Language</h5>
-                    <ul>
-                        <a href=""><li>English</li></a>
-                        <a href=""><li>ខ្មែរ</li></a>
+                    {{--<h5>Language</h5>--}}
+                    {{--<ul>--}}
+                        {{--<a href=""><li>English</li></a>--}}
+                        {{--<a href=""><li>ខ្មែរ</li></a>--}}
 
-                    </ul>
+                    {{--</ul>--}}
 
                 </div>
                 <div class="col-xs-12 col-sm-4 col-md-4">

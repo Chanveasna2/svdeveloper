@@ -14,7 +14,7 @@
                     <p><b>Address:</b> #74, Street 93, Sangkat Tonle Bassac, Khan Chamkar morn
                         Phnom Penh, Cambodia.</p>
                     <p><b>Phone:</b> 010 254 294</p>
-                    <p><b>Email:</b> svtechnologieskh@gmail.com</p>
+                    <p><b>Email:</b> support@anachaktechno.com</p>
                 </div>
                 <div class="col-md-6">
                     <h3>Get In Touch</h3>
@@ -32,7 +32,7 @@
                             <textarea class="form-control" placeholder="Your Message"></textarea>
                         </div>
                         <div class="form-group">
-                           <button class="btn btn-primary" type="submit">Submit</button>
+                           <button class="btn btn-success" type="submit">Submit</button>
                         </div>
                     </form>
                 </div>
